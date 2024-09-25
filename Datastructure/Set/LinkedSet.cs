@@ -4,10 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Collections;
 
 namespace Sets
 {
-    internal class LinkedSet : LinkedHeaderCollection
+    public class LinkedSet : LinkedHeaderCollection,Set
     {
         public new void add(object e)
         {
