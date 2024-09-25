@@ -1,0 +1,9 @@
+C:\Users\ROG\source\repos\Datastructure\Set\bin\Debug\Set.dll
+C:\Users\ROG\source\repos\Datastructure\Set\bin\Debug\Set.pdb
+C:\Users\ROG\source\repos\Datastructure\Set\bin\Debug\Collection.dll
+C:\Users\ROG\source\repos\Datastructure\Set\bin\Debug\Collection.pdb
+C:\Users\ROG\source\repos\Datastructure\Set\obj\Debug\Sets.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Datastructure\Set\obj\Debug\Sets.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Datastructure\Set\obj\Debug\Sets.csproj.Up2Date
+C:\Users\ROG\source\repos\Datastructure\Set\obj\Debug\Set.dll
+C:\Users\ROG\source\repos\Datastructure\Set\obj\Debug\Set.pdb
