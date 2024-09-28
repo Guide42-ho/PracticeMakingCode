@@ -84,6 +84,10 @@
       <Project>{04e48e02-a562-4aa5-bf85-2c56f6ca85f9}</Project>
       <Name>Collections</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Lists\Lists.csproj">
+      <Project>{ce12eef3-4597-4e32-8f7e-b8e095d929a6}</Project>
+      <Name>Lists</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Set\Sets.csproj">
       <Project>{78b06f2b-0a32-4f6b-a5cd-15a14e15e1d5}</Project>
       <Name>Sets</Name>

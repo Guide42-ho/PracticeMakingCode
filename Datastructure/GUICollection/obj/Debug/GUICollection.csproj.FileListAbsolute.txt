@@ -13,3 +13,5 @@ C:\Users\ROG\source\repos\Datastructure\GUICollection\obj\Debug\GUICollection.ex
 C:\Users\ROG\source\repos\Datastructure\GUICollection\obj\Debug\GUICollection.pdb
 C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\Set.dll
 C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\Set.pdb
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\Lists.dll
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\Lists.pdb
