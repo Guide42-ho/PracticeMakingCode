@@ -1,0 +1,9 @@
+C:\Users\ROG\source\repos\Datastructure\Lists\bin\Debug\Lists.dll
+C:\Users\ROG\source\repos\Datastructure\Lists\bin\Debug\Lists.pdb
+C:\Users\ROG\source\repos\Datastructure\Lists\bin\Debug\Collection.dll
+C:\Users\ROG\source\repos\Datastructure\Lists\bin\Debug\Collection.pdb
+C:\Users\ROG\source\repos\Datastructure\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Datastructure\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Datastructure\Lists\obj\Debug\Lists.csproj.Up2Date
+C:\Users\ROG\source\repos\Datastructure\Lists\obj\Debug\Lists.dll
+C:\Users\ROG\source\repos\Datastructure\Lists\obj\Debug\Lists.pdb
