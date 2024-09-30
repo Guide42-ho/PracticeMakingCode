@@ -71,50 +71,49 @@ namespace GUICollection
         }
         private void GetIndex_Click(object sender, EventArgs e)
         {
-            int index = Index();
-            if (C.contains(index) || index == -2) 
+            int index;
+            if (int.TryParse(GetIndextextBox.Text, out index))
             {
-                MessageBox.Show("ต้องเป็นตัวเลขเท่านั้น");
-            }
-            if (index > C.size() || C.isEmpty()) 
-            {
-                MessageBox.Show("ไม่มีข้อมูลในตำแหน่งที่ : "+ ++index);
+                if (index > C.size() || C.isEmpty() || index <= 0)
+                {
+                    MessageBox.Show("ไม่มีข้อมูลในตำแหน่งที่ : " + index);
+                }
+                else
+                {
+                    ShowTextBox.Text = (String)C.get(--index);
+                }
             }
             else
             {
-                ShowTextBox.Text = (String)C.get(index);
+                MessageBox.Show("ต้องเป็นตัวเลขเท่านั้น");
             }
         }
         private void Set_Click(object sender, EventArgs e)
         {
-            int index = Index();
-            if (C.size() < index)
-            {
-                MessageBox.Show("ไม่มีข้อมูลที่จะแก้ไข");
-            }
-            if (index != -2 & !ShowTextBox.Text.Equals("")) 
-            {
-            C.set(index, ShowTextBox.Text);
-            ShowTextBox.Clear();GetIndextextBox.Clear();
-            }
-            else 
-            {
-                MessageBox.Show("ต้องใส่ตำแหน่งและข้อมูลที่จะแก้ไข ");
-            }
-        }
-        private int Index()
-        {
             int index;
             if (int.TryParse(GetIndextextBox.Text, out index))
             {
-                return --index;
+                if (C.size() < index || C.isEmpty() || index <= 0)
+                {
+                    MessageBox.Show("ไม่มีข้อมูลที่จะแก้ไข");
+                }
+                else if (!ShowTextBox.Text.Equals("")) 
+                {
+                C.set(--index, ShowTextBox.Text);
+                ShowTextBox.Clear();GetIndextextBox.Clear();
+                }
+                else 
+                {
+                    MessageBox.Show("ต้องใส่ตำแหน่งและข้อมูลที่จะแก้ไข ");
+                }
             }
             else
             {
-                return -2;
+                MessageBox.Show("ต้องเป็นตัวเลขเท่านั้น");
             }
+           
         }
-
+       
         private void ShowAll_Click(object sender, EventArgs e)
         {
             NameAllListBox.Items.Clear();
