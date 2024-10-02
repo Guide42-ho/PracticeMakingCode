@@ -77,6 +77,7 @@ namespace GUICollection
                 if (index > C.size() || C.isEmpty() || index <= 0)
                 {
                     MessageBox.Show("ไม่มีข้อมูลในตำแหน่งที่ : " + index);
+                    GetIndextextBox.Clear();
                 }
                 else
                 {
@@ -86,6 +87,7 @@ namespace GUICollection
             else
             {
                 MessageBox.Show("ต้องเป็นตัวเลขเท่านั้น");
+                GetIndextextBox.Clear();
             }
         }
         private void Set_Click(object sender, EventArgs e)
@@ -96,20 +98,27 @@ namespace GUICollection
                 if (C.size() < index || C.isEmpty() || index <= 0)
                 {
                     MessageBox.Show("ไม่มีข้อมูลที่จะแก้ไข");
+                    GetIndextextBox.Clear();
+                    ShowTextBox.Clear();
                 }
                 else if (!ShowTextBox.Text.Equals("")) 
                 {
-                C.set(--index, ShowTextBox.Text);
-                ShowTextBox.Clear();GetIndextextBox.Clear();
+                    C.set(--index, ShowTextBox.Text);
+                    ShowTextBox.Clear();GetIndextextBox.Clear();
+                    ShowAll_Click(sender,e);
                 }
                 else 
                 {
                     MessageBox.Show("ต้องใส่ตำแหน่งและข้อมูลที่จะแก้ไข ");
+                    GetIndextextBox.Clear();
+                    ShowTextBox.Clear();
                 }
             }
             else
             {
                 MessageBox.Show("ต้องเป็นตัวเลขเท่านั้น");
+                GetIndextextBox.Clear();
+                ShowTextBox.Clear();
             }
            
         }
