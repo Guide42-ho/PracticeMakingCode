@@ -1,0 +1,17 @@
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\GUICollection.exe.config
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\GUICollection.exe
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\GUICollection.pdb
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\Collection.dll
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\Collection.pdb
+C:\Users\ROG\source\repos\Datastructure\GUICollection\obj\Debug\GUICollection.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Datastructure\GUICollection\obj\Debug\GUICollection.Form1.resources
+C:\Users\ROG\source\repos\Datastructure\GUICollection\obj\Debug\GUICollection.Properties.Resources.resources
+C:\Users\ROG\source\repos\Datastructure\GUICollection\obj\Debug\GUICollection.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\Datastructure\GUICollection\obj\Debug\GUICollection.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Datastructure\GUICollection\obj\Debug\GUIColle.7E0DE9BF.Up2Date
+C:\Users\ROG\source\repos\Datastructure\GUICollection\obj\Debug\GUICollection.exe
+C:\Users\ROG\source\repos\Datastructure\GUICollection\obj\Debug\GUICollection.pdb
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\Set.dll
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\Set.pdb
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\Lists.dll
+C:\Users\ROG\source\repos\Datastructure\GUICollection\bin\Debug\Lists.pdb
