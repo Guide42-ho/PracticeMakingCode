@@ -1,0 +1,6 @@
+C:\Users\ROG\source\repos\Datastructure\Stacks\bin\Debug\Stacks.dll
+C:\Users\ROG\source\repos\Datastructure\Stacks\bin\Debug\Stacks.pdb
+C:\Users\ROG\source\repos\Datastructure\Stacks\obj\Debug\Stacks.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Datastructure\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Datastructure\Stacks\obj\Debug\Stacks.dll
+C:\Users\ROG\source\repos\Datastructure\Stacks\obj\Debug\Stacks.pdb
