@@ -1,6 +1,0 @@
-C:\Users\ROG\source\repos\Datastructure\Collection\obj\Debug\Collections.csproj.AssemblyReference.cache
-C:\Users\ROG\source\repos\Datastructure\Collection\obj\Debug\Collections.csproj.CoreCompileInputs.cache
-C:\Users\ROG\source\repos\Datastructure\Collection\obj\Debug\Collection.dll
-C:\Users\ROG\source\repos\Datastructure\Collection\obj\Debug\Collection.pdb
-C:\Users\ROG\source\repos\Datastructure\Collection\bin\Debug\Collection.dll
-C:\Users\ROG\source\repos\Datastructure\Collection\bin\Debug\Collection.pdb
