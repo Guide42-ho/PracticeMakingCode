@@ -1,0 +1,7 @@
+C:\Users\ROG\source\repos\Datastructure\MazeSolver\bin\Debug\MazeSolver.exe.config
+C:\Users\ROG\source\repos\Datastructure\MazeSolver\bin\Debug\MazeSolver.exe
+C:\Users\ROG\source\repos\Datastructure\MazeSolver\bin\Debug\MazeSolver.pdb
+C:\Users\ROG\source\repos\Datastructure\MazeSolver\obj\Debug\MazeSolver.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Datastructure\MazeSolver\obj\Debug\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Datastructure\MazeSolver\obj\Debug\MazeSolver.exe
+C:\Users\ROG\source\repos\Datastructure\MazeSolver\obj\Debug\MazeSolver.pdb
