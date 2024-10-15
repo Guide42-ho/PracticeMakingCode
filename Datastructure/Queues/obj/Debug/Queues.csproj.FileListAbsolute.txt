@@ -1,0 +1,11 @@
+C:\Users\ROG\source\repos\Datastructure\Queues\bin\Debug\Queues.dll
+C:\Users\ROG\source\repos\Datastructure\Queues\bin\Debug\Queues.pdb
+C:\Users\ROG\source\repos\Datastructure\Queues\bin\Debug\Collections.dll
+C:\Users\ROG\source\repos\Datastructure\Queues\bin\Debug\Lists.dll
+C:\Users\ROG\source\repos\Datastructure\Queues\bin\Debug\Collections.pdb
+C:\Users\ROG\source\repos\Datastructure\Queues\bin\Debug\Lists.pdb
+C:\Users\ROG\source\repos\Datastructure\Queues\obj\Debug\Queues.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Datastructure\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Datastructure\Queues\obj\Debug\Queues.csproj.Up2Date
+C:\Users\ROG\source\repos\Datastructure\Queues\obj\Debug\Queues.dll
+C:\Users\ROG\source\repos\Datastructure\Queues\obj\Debug\Queues.pdb
