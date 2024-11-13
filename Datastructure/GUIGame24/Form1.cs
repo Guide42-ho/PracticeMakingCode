@@ -103,8 +103,8 @@ namespace GUIGame24
             {
                 list.set(i, rand.Next(1, 10));
             }
+            random();
             Reset();
-            Number();
         }
 
         private void buttonAnswer_Click(object sender, EventArgs e)
@@ -130,6 +130,10 @@ namespace GUIGame24
                 {
                     MessageBox.Show("ผลลัพธ์: " + n.ToString(), "สำเร็จ", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     label1.Text = "Win" + ++win;
+                    listBox1.Items.Add(textBox1.Text);
+                    textBox1.Clear();
+                    Reset();
+                    random();
                 }
             }
             catch (Exception ex)
@@ -199,6 +203,16 @@ namespace GUIGame24
             {
                 MessageBox.Show("กรุณาเลือกข้อมูลจาก ListBox");
             }
+        }
+
+        private void buttonsymbol5_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += buttonsymbol5.Text;
+        }
+
+        private void buttonsymbol6_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += buttonsymbol6.Text;
         }
     }
 }
